@@ -1,0 +1,19 @@
+.parrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 165, 165);
+}
+
+#texto1{
+    color: #00f;
+    font-size: 36px;
+}
+
+#texto2{
+    background-color: hsl(100, 97%, 71%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.apart{
+    font-size: 24px;
+}
