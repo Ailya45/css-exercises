@@ -24,3 +24,48 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.title{
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.text{
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.container1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.container2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.container3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.container4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
